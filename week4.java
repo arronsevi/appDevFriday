@@ -4,7 +4,7 @@ public class week4 {
        
         // Call each student's method
         // More students will add their method calls here...
-        Mamang.display();
+        MamangWeek4.display();
      
        
     }
